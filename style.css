@@ -1,5 +1,5 @@
 * {
-  font-family: 'Comic Neue', sans-serif;
+  font-family: "Comic Neue", sans-serif;
   font-size: xx-large;
 }
 
@@ -17,7 +17,9 @@ body {
   padding-bottom: 1px;
 }
 
-#header, #middle, #foot {
+#header,
+#middle,
+#foot {
   background-color: tomato;
   margin: 40px;
   border-radius: 15px;
@@ -34,19 +36,22 @@ body {
 }
 
 #middle {
-    padding: 15px;
+  padding: 15px;
 }
 
 #middle table {
   font-size: 1px;
 }
 
-table, th, td {
+table,
+th,
+td {
   border: 3px solid black;
   border-collapse: collapse;
 }
 
-th, td {
+th,
+td {
   padding: 10px;
 }
 
@@ -56,37 +61,37 @@ th, td {
 
 /* Google Font: Comic Neue */
 .comic-neue-light {
-    font-family: "Comic Neue", cursive;
-    font-weight: 300;
-    font-style: normal;
-  }
-  
-  .comic-neue-regular {
-    font-family: "Comic Neue", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .comic-neue-bold {
-    font-family: "Comic Neue", cursive;
-    font-weight: 700;
-    font-style: normal;
-  }
-  
-  .comic-neue-light-italic {
-    font-family: "Comic Neue", cursive;
-    font-weight: 300;
-    font-style: italic;
-  }
-  
-  .comic-neue-regular-italic {
-    font-family: "Comic Neue", cursive;
-    font-weight: 400;
-    font-style: italic;
-  }
-  
-  .comic-neue-bold-italic {
-    font-family: "Comic Neue", cursive;
-    font-weight: 700;
-    font-style: italic;
-  }  
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.comic-neue-regular {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-neue-bold {
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.comic-neue-light-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.comic-neue-regular-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.comic-neue-bold-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: italic;
+}
